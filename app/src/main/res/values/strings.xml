@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Guessing Number</string>
+
+    <string name="targeted_number_text_view">your number %d</string>
+    <string name ="first_question">Is your number 5?</string>
+    <string name ="second_question">Is your number 3?</string>
+    <string name ="third_question">Is your number 2?</string>
+    <string name ="fourth_question">Is your number 1?</string>
+    <string name ="fifth_question">Is your number 4?</string>
+    <string name ="sixth_question">Is your number 7?</string>
+    <string name ="seventh_question">Is your number 6?</string>
+    <string name ="eight_question">Is your number 9?</string>
+    <string name ="nineth_question">Is your number 8?</string>
+    <string name ="tenth_question">Is your number 10?</string>
+
+    <string name="reset_button_string">reset</string>
+    <string name="start_button_string">start</string>
+    <string name="success">Success</string>
+</resources>
